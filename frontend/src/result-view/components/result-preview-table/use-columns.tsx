@@ -91,7 +91,7 @@ export const useColumns = () => {
             label: nodeKey,
           },
           dataIndex: nodeKey,
-          fixed: 'left',
+          // fixed: 'left',
           width: cellSize,
           render(col: PreviewTableCellValueType, item) {
             // 定制渲染内容
@@ -124,7 +124,7 @@ export const useColumns = () => {
             isParams: true,
             label: nodeKey,
           },
-          fixed: 'left',
+          // fixed: 'left',
           width: cellSize,
           render(col: PreviewTableCellValueType, item) {
             // 定制渲染内容

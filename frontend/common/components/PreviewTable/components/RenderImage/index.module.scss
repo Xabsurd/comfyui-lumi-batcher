@@ -3,19 +3,19 @@
   align-items: center;
   position: relative;
   width: 100%;
-  height: 100%;
+  height: auto;
   box-sizing: border-box;
   cursor: pointer;
 
   .responsiveBox {
     display: contents;
     width: 100%;
-    height: 100%;
+    height: auto;
 
     .loading {
       width: 100%;
-      height: 100%;
-      aspect-ratio: 1 / 1;
+      height: auto;
+      aspect-ratio: auto;
       z-index: 2;
     }
   }
@@ -34,8 +34,8 @@
 
   .carousel {
     width: 100%;
-    height: 100%;
-    aspect-ratio: 1 / 1;
+    height: auto;
+    aspect-ratio: auto;
     z-index: auto;
 
     :global {
@@ -55,15 +55,15 @@
 
   .image {
     width: 100%;
-    height: 100%;
-    aspect-ratio: 1 / 1;
-    position: absolute;
+    height: auto;
+    aspect-ratio: auto;
+    // position: absolute;
     z-index: auto;
 
     // :global {
     //   img {
     //     width: 100%;
-    //     height: 100%;
+    //     height: auto;
     //     object-fit: contain;
     //   }
     // }
