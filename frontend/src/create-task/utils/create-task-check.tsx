@@ -15,6 +15,7 @@ const OutputNodesList = [
   'ShowText|pysssss',
   'DisplayString',
   'SaveVideo',
+  'SaveImageWithMetaData'
 ];
 
 // 检测输出节点是否在输出节点列表中

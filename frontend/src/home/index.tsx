@@ -16,6 +16,7 @@ export const Home = () => {
   return (
     <ConfigProvider
       locale={languageUtils.getLanguage() === LanguagesEnum.EN ? enUS : zhCN}
+      size='large'
     >
       <DragButton />
     </ConfigProvider>

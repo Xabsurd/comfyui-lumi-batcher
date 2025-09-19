@@ -43,7 +43,7 @@ export default defineConfig({
   server: {
     proxy: {
       '/api/comfyui-lumi-batcher': {
-        target: 'http://127.0.0.1:8188',
+        target: 'http://192.168.1.88:8188',
         changeOrigin: true,
         // 可选：如果不需要重写路径，可以删除此项
         pathRewrite: { '^/api/comfyui-lumi-batcher': '/api/comfyui-lumi-batcher' },
