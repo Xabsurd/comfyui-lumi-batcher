@@ -76,6 +76,10 @@ ComfyUI-Lumi-Batcher extends beyond tools like XYZ Plot in WebUI, becoming a pow
 
 ## ⭐️ Release Notes
 
+- 🚀 **version 1.0.9**: Fixes the zoom-in/zoom-out issue when switching between cells with images/videos in the preview table; Adds support for cell navigation using the arrow keys.
+
+- 🚀 **version 1.0.8**: Fixes the scroll issue in the ComfyUI official latest UI template selection popup, and supports dragging the result image into the canvas to restore the accurate parameters.
+
 - ✂️ **Version 1.0.7**: Supports the latest ComfyUI updates, ensuring batch tool functionality
 
 - ☀️ **Version 1.0.6**：Compatible with official ComfyUI version 0.3.44 for changes made to validate_prompt
