@@ -1,5 +1,0 @@
-<<<<<<<< HEAD:frontend/dist/static/css/index.b4f8efe4.css.map
-{"version":3,"file":"static/css/index.b4f8efe4.css","sources":["webpack://frontend/./src/batch-tools/index.scss"],"sourcesContent":[".batch-tools-trigger-container{width:fit-content;height:fit-content}"],"names":[],"mappings":"AADA"}
-========
-{"version":3,"file":"static/css/index.ab019de8.css","sources":["webpack://frontend/./src/batch-tools/index.scss"],"sourcesContent":[".batch-tools-trigger-container{width:fit-content;height:fit-content}"],"names":[],"mappings":"AADA"}
->>>>>>>> c9c1d6e75c5eee3c1ecaccbbdc0a2e717c9283df:frontend/dist/static/css/index.ab019de8.css.map
